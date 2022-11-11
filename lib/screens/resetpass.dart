@@ -30,7 +30,7 @@ class StartState extends State<ResetPassScreen> {
         email: emailController.text.trim(),
       );
 
-      Utils.showSnackBar('Password Reset Email sent');
+      Utils.showSnackBar('Password Reset Email sent!');
       Navigator.of(context).popUntil((route) => route.isFirst);
     } on FirebaseAuthException catch (e) {
       print(e);
@@ -39,8 +39,7 @@ class StartState extends State<ResetPassScreen> {
       Navigator.of(context).pop();
     }
 
-    // navigatorKey.currentState.popUntil((route) => route.isFirst);
-    // Navigator.of(context).popUntil((route) => route.isFirst);
+    //Navigator.of(context).popUntil((route) => route.isFirst);
   }
 
   @override
@@ -129,7 +128,7 @@ class StartState extends State<ResetPassScreen> {
                         ),
                       ),
                     ),
-                    Container(
+                    /* Container(
                       alignment: Alignment.center,
                       margin: EdgeInsets.only(left: 20, right: 20, top: 20),
                       padding: EdgeInsets.only(left: 20, right: 20),
@@ -157,7 +156,7 @@ class StartState extends State<ResetPassScreen> {
                           focusedBorder: InputBorder.none,
                         ),
                       ),
-                    ),
+                    ),*/
                     GestureDetector(
                       onTap: () {
                         // Write Click Listener Code Here.

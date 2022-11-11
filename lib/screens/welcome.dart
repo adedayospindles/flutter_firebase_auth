@@ -13,8 +13,8 @@ class WelcomeScreen extends StatefulWidget {
 class StartState extends State<WelcomeScreen> {
   @override
   Widget build(BuildContext context) {
-    // return welcomeWidget();
-    return initWidget();
+    return welcomeWidget();
+    //return initWidget();
   }
 
   welcomeWidget() {
