@@ -39,7 +39,7 @@ class StartState extends State<ResetPassScreen> {
       Navigator.of(context).pop();
     }
 
-    //navigatorKey.currentState.popUntil((route) => route.isFirst);
+    // navigatorKey.currentState.popUntil((route) => route.isFirst);
     // Navigator.of(context).popUntil((route) => route.isFirst);
   }
 
