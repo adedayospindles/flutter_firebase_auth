@@ -1,0 +1,153 @@
+import 'package:flutter/material.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter_firebase_auth/screens/home.dart';
+import 'package:flutter_firebase_auth/screens/login.dart';
+
+final user = FirebaseAuth.instance.currentUser;
+
+class WelcomeScreen extends StatefulWidget {
+  @override
+  State<StatefulWidget> createState() => StartState();
+}
+
+class StartState extends State<WelcomeScreen> {
+  @override
+  Widget build(BuildContext context) {
+    // return welcomeWidget();
+    return initWidget();
+  }
+
+  welcomeWidget() {
+    return Scaffold(
+        body: StreamBuilder<User>(
+            stream: FirebaseAuth.instance.authStateChanges(),
+            builder: (context, snapshot) {
+              if (snapshot.connectionState == ConnectionState.waiting) {
+                return Center(child: CircularProgressIndicator());
+              } else if (snapshot.hasError) {
+                return Center(child: Text('Something went wrong'));
+              } else if (snapshot.hasData) {
+                return initWidget();
+              } else {
+                return HomeScreen();
+              }
+            }));
+  }
+
+  initWidget() {
+    return Scaffold(
+        body: SingleChildScrollView(
+            child: Column(
+      children: [
+        Container(
+          height: 300,
+          decoration: BoxDecoration(
+            borderRadius: BorderRadius.only(bottomLeft: Radius.circular(0)),
+            color: new Color(0xffF5591F),
+            gradient: LinearGradient(
+              colors: [(new Color(0xffF5591F)), new Color(0xffF2861E)],
+              begin: Alignment.topCenter,
+              end: Alignment.bottomCenter,
+            ),
+          ),
+          child: Center(
+              child: Column(
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Container(
+                margin: EdgeInsets.only(top: 50),
+                child: Image.asset(
+                  "images/app_logo.png",
+                  height: 90,
+                  width: 90,
+                ),
+              ),
+              Container(
+                margin: EdgeInsets.only(top: 20),
+                alignment: Alignment.bottomCenter,
+                child: Text(
+                  "Welcome to Zuri",
+                  style: TextStyle(fontSize: 20, color: Colors.white),
+                ),
+              )
+            ],
+          )),
+        ),
+        Container(
+          margin: EdgeInsets.only(top: 10),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              GestureDetector(
+                child: Container(
+                  alignment: Alignment.center,
+                  margin: EdgeInsets.only(left: 20, right: 20, top: 70),
+                  padding: EdgeInsets.only(left: 20, right: 20),
+                  height: 50,
+                  child: Text("You belong here, Great one! Zuri Loves you!! "),
+                ),
+              ),
+            ],
+          ),
+        ),
+        Container(
+          margin: EdgeInsets.only(top: 10),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Text(
+                "You are signed in as " + user.email,
+              ),
+            ],
+          ),
+        ),
+        Container(
+          alignment: Alignment.center,
+          margin: EdgeInsets.only(top: 10),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              GestureDetector(
+                child: Container(
+                  alignment: Alignment.center,
+                  margin: EdgeInsets.only(left: 20, right: 20, top: 70),
+                  padding: EdgeInsets.only(left: 20, right: 20),
+                  height: 50,
+                  decoration: BoxDecoration(
+                    gradient: LinearGradient(colors: [
+                      (new Color(0xffF5591F)),
+                      new Color(0xffF2861E)
+                    ], begin: Alignment.centerLeft, end: Alignment.centerRight),
+                    borderRadius: BorderRadius.circular(0),
+                    color: Colors.grey[200],
+                    boxShadow: [
+                      BoxShadow(
+                          offset: Offset(0, 10),
+                          blurRadius: 50,
+                          color: Color(0xffEEEEEE)),
+                    ],
+                  ),
+                  child: Text(
+                    "SIGN OUT",
+                    style: TextStyle(color: Colors.white),
+                  ),
+                ),
+                onTap: () {
+                  // Write Tap Code Here.
+
+                  FirebaseAuth.instance.signOut();
+                  Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => LoginScreen(),
+                      ));
+                },
+              ),
+            ],
+          ),
+        )
+      ],
+    )));
+  }
+}

@@ -1,0 +1,1 @@
+/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/android/app/src/main/kotlin/com/example/login_ui_design/MainActivity.kt

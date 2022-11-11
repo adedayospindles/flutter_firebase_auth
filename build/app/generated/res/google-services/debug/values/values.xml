@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">447257183078-1s8r3nh5aah56nru0ouf0r1e8nuombm0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">447257183078</string>
+    <string name="google_api_key" translatable="false">AIzaSyAMmRR3qp3s0vuP1Hmx4oPyEdrn_hw8Acg</string>
+    <string name="google_app_id" translatable="false">1:447257183078:android:ee16656cfdc8b8ea5c3ea7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAMmRR3qp3s0vuP1Hmx4oPyEdrn_hw8Acg</string>
+    <string name="google_storage_bucket" translatable="false">spindles-auth.appspot.com</string>
+    <string name="project_id" translatable="false">spindles-auth</string>
+</resources>

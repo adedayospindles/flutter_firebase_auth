@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447257183078",
+    "project_id": "spindles-auth",
+    "storage_bucket": "spindles-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447257183078:android:ee16656cfdc8b8ea5c3ea7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447257183078-1s8r3nh5aah56nru0ouf0r1e8nuombm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmRR3qp3s0vuP1Hmx4oPyEdrn_hw8Acg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447257183078-1s8r3nh5aah56nru0ouf0r1e8nuombm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
