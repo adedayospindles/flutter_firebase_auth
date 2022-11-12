@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/firebase_core/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/firebase_core/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/firebase_core/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/firebase_core/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

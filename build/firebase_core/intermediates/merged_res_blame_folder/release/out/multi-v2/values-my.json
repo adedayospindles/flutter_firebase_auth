@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/firebase_core/intermediates/merged_res/release/values-my/values-my.xml",
+            "map": [
+                {
+                    "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "209",
+                        "endColumns": "100",
+                        "endOffsets": "305"
+                    }
+                },
+                {
+                    "source": "/Users/adedayospindle/.gradle/caches/transforms-3/f218fba0bd62e5206414df868b59bdee/transformed/jetified-play-services-basement-18.1.0/res/values-my/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "149",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "153",
+                        "endOffsets": "204"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/firebase_core/intermediates/incremental/mergeReleaseResources/merged.dir/values-my/values-my.xml",
+            "map": [
+                {
+                    "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "209",
+                        "endColumns": "100",
+                        "endOffsets": "305"
+                    }
+                },
+                {
+                    "source": "/Users/adedayospindle/.gradle/caches/transforms-3/f218fba0bd62e5206414df868b59bdee/transformed/jetified-play-services-basement-18.1.0/res/values-my/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "149",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "153",
+                        "endOffsets": "204"
+                    }
+                }
+            ]
+        }
+    ]
+}

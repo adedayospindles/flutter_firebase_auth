@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/notification_bg.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/notification_icon_background.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/notification_bg_low.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    }
+]

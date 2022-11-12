@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/fe962b7ade110fb1e9c89e1e9a8618c7/transformed/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/cloud_firestore/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    }
+]

@@ -1,19 +1,36 @@
 {
-	"logs": [
-		{
-			"outputFile": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rXC/values-en-rXC.xml",
-			"map": [
-				{
-					"source": "/Users/adedayospindle/.gradle/caches/transforms-3/b99a148a9d9a9efcf10c0b76d1388a13/transformed/core-1.6.0/res/values-en-rXC/values-en-rXC.xml",
-					"from": {
-						"startLines": "2",
-						"startColumns": "4",
-						"startOffsets": "55",
-						"endColumns": "203",
-						"endOffsets": "254"
-					}
-				}
-			]
-		}
-	]
+    "logs": [
+        {
+            "outputFile": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "/Users/adedayospindle/.gradle/caches/transforms-3/cfd55d96aec51347feecc421e66cec50/transformed/core-1.6.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "867",
+                        "endColumns": "203",
+                        "endOffsets": "1066"
+                    }
+                },
+                {
+                    "source": "/Users/adedayospindle/.gradle/caches/transforms-3/f9fe8e87dbcd9505a36ab140ea441b18/transformed/browser-1.4.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,255,454,665",
+                        "endColumns": "199,198,210,201",
+                        "endOffsets": "250,449,660,862"
+                    }
+                }
+            ]
+        }
+    ]
 }

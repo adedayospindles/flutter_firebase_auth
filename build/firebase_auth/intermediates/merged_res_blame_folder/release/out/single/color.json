@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/firebase_auth/intermediates/merged_res/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/7c4fc14e15da7ba17c1d756a95b437f5/transformed/jetified-play-services-base-17.1.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/firebase_auth/intermediates/merged_res/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/7c4fc14e15da7ba17c1d756a95b437f5/transformed/jetified-play-services-base-17.1.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/firebase_auth/intermediates/merged_res/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/adedayospindle/.gradle/caches/transforms-3/7c4fc14e15da7ba17c1d756a95b437f5/transformed/jetified-play-services-base-17.1.0/res/color/common_google_signin_btn_tint.xml"
+    }
+]

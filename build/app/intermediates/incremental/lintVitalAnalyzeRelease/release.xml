@@ -1,7 +1,7 @@
 <variant
     name="release"
     package="com.example.flutter_firebase_auth"
-    minSdkVersion="16"
+    minSdkVersion="21"
     targetSdkVersion="28"
     shrinking="true"
     mergedManifest="/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
@@ -32,6 +32,6 @@
       classOutputs="/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/intermediates/javac/release/classes:/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/tmp/kotlin-classes/release:/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/kotlinToolingMetadata:/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
       applicationId="com.example.flutter_firebase_auth"
       generatedSourceFolders="/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/generated/ap_generated_sources/release/out:/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/generated/aidl_source_output_dir/release/out:/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/generated/source/buildConfig/release:/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/generated/renderscript_source_output_dir/release/out"
-      generatedResourceFolders="/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/generated/res/rs/release:/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/generated/res/resValues/release">
+      generatedResourceFolders="/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/generated/res/google-services/release:/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/generated/res/rs/release:/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/generated/res/resValues/release">
   </mainArtifact>
 </variant>
