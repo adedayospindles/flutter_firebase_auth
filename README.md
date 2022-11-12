@@ -2,7 +2,7 @@
 
 Firebase Auth with CRUD operations in Flutter
 
-APPETIZER LINK:
+APPETIZER LINK: https://appetize.io/app/r2xjhp6shuam75rg54gur5sdmq
 
 <img src="cover.png">
 

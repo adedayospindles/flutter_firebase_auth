@@ -1,4 +1,4 @@
-#Fri Nov 11 11:10:24 WAT 2022
+#Sat Nov 12 06:07:51 WAT 2022
 base.0=/Users/adedayospindle/Documents/GitHub/flutter_firebase_auth/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
